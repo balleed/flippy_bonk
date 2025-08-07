@@ -1,8 +1,8 @@
-# 🐦 Flippy Bonk
+# Flippy Bonk
 
 A modern 3D implementation of the classic Flappy Bird game featuring stunning three-dimensional graphics, blockchain integration, and cross-platform compatibility. Built with cutting-edge web technologies and deployed as both a web application and native Android app.
 
-![Flappy Bird 3D](https://img.shields.io/badge/Game-Flappy%20Bird%203D-yellow)
+![Flippy Bonk 3D](https://img.shields.io/badge/Game-Flappy%20Bird%203D-yellow)
 ![Next.js](https://img.shields.io/badge/Next.js-15.3.2-black)
 ![React](https://img.shields.io/badge/React-19.0.0-blue)
 ![Three.js](https://img.shields.io/badge/Three.js-0.176.0-green)
@@ -10,14 +10,14 @@ A modern 3D implementation of the classic Flappy Bird game featuring stunning th
 
 ## ✨ Features
 
-- **🎮 3D Graphics**: Immersive three-dimensional gameplay using React Three Fiber
-- **📱 Cross-Platform**: Play in browser or on Android devices
-- **🔗 Blockchain Integration**: Solana wallet integration with on-chain scoring
-- **🎯 Power-ups System**: Speed boost, slow motion, and inverted controls
-- **🏆 Global Leaderboard**: Firebase-powered ranking system
-- **🎨 Dynamic Visuals**: Animated bird with color-changing effects
-- **📺 Fullscreen Mode**: Immersive gaming experience across all devices
-- **⚡ Real-time Physics**: Smooth 60fps gameplay with realistic bird physics
+- **3D Graphics**: Immersive three-dimensional gameplay using React Three Fiber
+- **Cross-Platform**: Play in browser or on Android devices
+- **Blockchain Integration**: Solana wallet integration with on-chain scoring
+- **Power-ups System**: Speed boost, slow motion, and inverted controls
+- **Global Leaderboard**: Firebase-powered ranking system
+- **Dynamic Visuals**: Animated bird with color-changing effects
+- **Fullscreen Mode**: Immersive gaming experience across all devices
+- **Real-time Physics**: Smooth 60fps gameplay with realistic bird physics
 
 ## 🛠 Technology Stack
 
@@ -141,17 +141,17 @@ npx cap run android
 - **Click/Tap**: Make the bird jump
 - **Spacebar**: Alternative jump control (web version)
 - **Collect Power-ups**: 
-  - 🚀 **Speed Boost**: Faster obstacle movement
-  - 🐌 **Slow Motion**: Slower obstacle movement  
-  - 🔄 **Inverted Controls**: Reverse jump direction
+  - **Speed Boost**: Faster obstacle movement
+  - **Slow Motion**: Slower obstacle movement  
+  - **Inverted Controls**: Reverse jump direction
 
 ## 🏗 Project Architecture
 
 ### Directory Structure
 ```
 flappy-bird/
-├── android/                 # Native Android project
-├── public/                  # Static assets
+├── android/                # Native Android project
+├── public/                 # Static assets
 │   ├── speed.png           # Speed boost icon
 │   ├── slow.png            # Slow motion icon
 │   └── invert.png          # Invert controls icon
@@ -245,7 +245,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Three.js community for 3D graphics inspiration
 - React Three Fiber team for excellent React integration
 - Capacitor team for seamless mobile development
-
----
-
-**🎮 Ready to play? Start your blockchain gaming journey today!**
