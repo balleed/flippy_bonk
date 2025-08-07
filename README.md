@@ -1,4 +1,4 @@
-# 🐦 Flappy Bird 3D - Blockchain Gaming Experience
+# 🐦 Flippy Bonk
 
 A modern 3D implementation of the classic Flappy Bird game featuring stunning three-dimensional graphics, blockchain integration, and cross-platform compatibility. Built with cutting-edge web technologies and deployed as both a web application and native Android app.
 
